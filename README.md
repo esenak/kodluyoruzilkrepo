@@ -10,3 +10,5 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 **License**
 MIT
+patika.dev https://www.patika.dev/tr
+![Ekran görüntüsü 2022-11-06 160020](https://user-images.githubusercontent.com/117081837/200172415-6912cfbb-18ab-48c5-b9f1-b2c494974373.png)
